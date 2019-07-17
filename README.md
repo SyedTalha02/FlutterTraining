@@ -1,6 +1,6 @@
-# sample_app
-
-A new Flutter project.
+# Flutter Training App
+ 
+This flutter project is created to teach people about the basics of flutter.
 
 ## Getting Started
 
